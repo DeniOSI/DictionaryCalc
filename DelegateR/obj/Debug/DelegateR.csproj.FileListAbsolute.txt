@@ -1,0 +1,6 @@
+c:\users\osipenko\documents\visual studio 2015\Projects\DelegateR\DelegateR\bin\Debug\DelegateR.exe.config
+c:\users\osipenko\documents\visual studio 2015\Projects\DelegateR\DelegateR\bin\Debug\DelegateR.exe
+c:\users\osipenko\documents\visual studio 2015\Projects\DelegateR\DelegateR\bin\Debug\DelegateR.pdb
+c:\users\osipenko\documents\visual studio 2015\Projects\DelegateR\DelegateR\obj\Debug\DelegateR.csprojResolveAssemblyReference.cache
+c:\users\osipenko\documents\visual studio 2015\Projects\DelegateR\DelegateR\obj\Debug\DelegateR.exe
+c:\users\osipenko\documents\visual studio 2015\Projects\DelegateR\DelegateR\obj\Debug\DelegateR.pdb
